@@ -1,0 +1,61 @@
+.body {
+    border: 3px solid red;
+}
+
+.heder {
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+}
+
+.section {
+    background-color: yellow;
+    flex: 1 1 auto;
+    justify-content: center;
+}
+
+.section_p{
+    border: 3px solid pink;
+    display: flex;
+    justify-content: center;
+
+}
+
+.aside {
+    background-color: green;
+    flex: 0 0 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    background-color: purple;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec_asi {
+    border: 3px solid blue;
+    display: flex;
+}
+
+.e_12 {
+    border: 3px solid blueviolet;
+    display: flex;
+}
+
+.eh_12 {
+    border: 3px solid peru;
+    flex: auto;
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.footer_sec {
+    display: flex;
+    justify-content: center;
+    background-color: palegreen;
+    margin: 30px;
+    padding: 30px;
+}
